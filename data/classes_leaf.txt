@@ -1,0 +1,160 @@
+clothes dryer
+coffee machine
+drying machine
+kitchen appliance
+kitchen hood
+machine
+microwave
+oven
+refrigerator
+stove
+tv
+washing machine
+laptop
+monitor
+pc
+printer
+screen
+clock
+hand dryer
+kettle
+player
+lamp
+light
+table lamp
+telephone
+toaster
+bathtub
+basin
+bidet
+laundry basket
+sink
+suitcase
+toilet
+backpack
+bag
+basket
+bin
+box
+bucket
+cleanser
+drum
+garbage
+garbage bin
+pot
+recycle bin
+trash can
+trashcan
+washing powder
+bottle
+cup
+jar
+pack
+soap dish
+paper towel
+toilet paper
+toilet paper dispenser
+vase
+bed
+blanket
+cushion
+pillow
+carpet
+bath cabinet
+cabinet
+closet
+commode
+cupboard
+kitchen cabinet
+showcase
+wardrobe
+armchair
+bench
+chair
+couch
+dining chair
+footstool
+ottoman
+rocking chair
+sofa
+sofa chair
+stool
+bookshelf
+drawer
+magazine rack
+organizer
+rack
+shelf
+shoe rack
+bedside table
+bar
+coffee table
+computer desk
+couch table
+counter
+desk
+dining table
+kitchen counter
+nightstand
+scale
+side table
+stand
+table
+tv stand
+board
+blinds
+curtain
+extractor fan
+door
+doorframe
+fireplace
+frame
+heater
+ladder
+radiator
+mirror
+shower
+shower curtain
+window
+windowsill
+ceiling
+floor
+shower floor
+shower wall
+stair
+wall
+clothes
+jacket
+shoe
+shoes
+decoration
+flower
+flowers
+grass
+plant
+cutting board
+fruit plate
+pan
+plate
+menu
+napkins
+towel
+pipe
+socket
+tube
+toilet brush
+ball
+bread
+clutter
+food
+item
+object
+objects
+stuffed animal
+book
+books
+folder
+papers
+picture
+pile of books
+pile of papers
